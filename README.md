@@ -1,4 +1,4 @@
-# Control-Position-for-Motor-using-PID-Controller
+# Control-Position-for-Motor-uses-PID-Controller
 
 Hi everyone,
 
